@@ -8,6 +8,4 @@
 
   <a href="https://aistudio.google.com/apps">Start building</a>
 
-  <p><a href="https://tasks-pro.phif.ly">https://tasks-pro.phif.ly</a></p>
-
 </div>
